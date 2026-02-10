@@ -14,7 +14,7 @@ Most of what I build is designed from scratch — focusing on clarity, maintaina
 - HTML / CSS
 
 ## 🧠 A Bit About Me
-🐈 I'm a cat lover
-🧩 I like build things that are useful and easy to understand
-🤖 Strong interest in AI and intelligent systems
-🛠️ I like building tools that are simple, useful, and maintainable
+🐈 I'm a cat lover 
+🧩 I like build things that are useful and easy to understand 
+🤖 Strong interest in AI and intelligent systems 
+🛠️ I like building tools that are simple, useful, and maintainable 
