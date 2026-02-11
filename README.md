@@ -12,6 +12,7 @@ Most of what I build is designed from scratch — focusing on clarity, maintaina
 - MySQL / PostgreSQL 
 - REST APIs
 - HTML / CSS
+- Tailwind / bootstrap
 
 ## 🧠 A Bit About Me
 🐈 I'm a cat lover 
