@@ -8,11 +8,13 @@ Most of what I build is designed from scratch — focusing on clarity, maintaina
 ## 🛠️ Tools & Tech
 - JavaScript / TypeScript
 - React
-- PHP / Laravel
-- MySQL / PostgreSQL 
+- PHP / Laravel / Node
+- Prisma / Moongose / Eloquent
+- MySQL / PostgreSQL / Mongo DB
 - REST APIs
 - HTML / CSS
 - Tailwind / bootstrap
+- Jest / Vitest
 
 ## 🧠 A Bit About Me
 🐈 I'm a cat lover 
